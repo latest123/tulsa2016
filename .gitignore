@@ -1,0 +1,6 @@
+# ignore temp files
+*.tmp
+
+# ignore bin files
+*.bin
+
